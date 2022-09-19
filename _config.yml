@@ -37,32 +37,27 @@ features                                  :
 
   - title                                 : Track your sticker collection
     description                           : Mark collected and repeated ones, easily see missing ones.
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : rectangle-vertical-history
     
   - title                                 : Stats!
     description                           : Get album stats. Know how close you are to completing it!
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : chart-column
 
   - title                                 : Share to other apps
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+    description                           : Quickly export a list of your missing and repeated stickers.
+    fontawesome_icon_name                 : share-from-square
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+  - title                                 : Keep your collection in sync
+    description                           : If you are collecting with more people in the same album, you can create a common account and keep your collection in sync across all your devices.
+    fontawesome_icon_name                 : rotate
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
+  - title                                 : Trade with friends
+    description                           : Add friends to see their collections. Get an instant view of stickers you can trade.
+    fontawesome_icon_name                 : user-group
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
-
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
-
+  - title                                 : Home Widget
+    description                           : Add a Widget to your Home page to see always keep an eye on your collection stats.
+    fontawesome_icon_name                 : house-heart
 
 
 # Theme Settings
