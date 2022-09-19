@@ -37,7 +37,7 @@ features                                  :
 
   - title                                 : Track your sticker collection
     description                           : Mark collected and repeated ones, easily see missing ones.
-    fontawesome_icon_name                 : album-collection
+    fontawesome_icon_name                 : sticky-note
     
   - title                                 : Stats!
     description                           : Get album stats. Know how close you are to completing it!
@@ -57,7 +57,7 @@ features                                  :
   
   - title                                 : Home Widget
     description                           : Add a Widget to your Home page to see always keep an eye on your collection stats.
-    fontawesome_icon_name                 : home-heart
+    fontawesome_icon_name                 : home
 
 
 # Theme Settings
